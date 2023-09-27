@@ -114,7 +114,7 @@ function secondsToString(seconds){
 
 secondsToString(3600);
 
-// Question 10 - 10.	Modify your solution above to only include units that make sense: 
+// Question 10 - Modify your solution above to only include units that make sense: 
 // "1 Minute" vs. "3 Hours, 5 Minutes" vs. "1 Day, 1 Hour, 56 Minutes" etc.
 
 // NOT SURE WHAT THIS QUESTION IS ASKING FOR...
